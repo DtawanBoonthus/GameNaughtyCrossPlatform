@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 98dad623a6a7c714db24569525c2238e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - chooseCharacterInfo: {instanceID: 0}
+  - positionOne: {instanceID: 0}
+  - positionTwo: {instanceID: 0}
+  - positionThree: {instanceID: 0}
+  - positionFour: {instanceID: 0}
+  - enemy: {instanceID: 0}
+  - jennieCharacter: {instanceID: 0}
+  - johnCharacter: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

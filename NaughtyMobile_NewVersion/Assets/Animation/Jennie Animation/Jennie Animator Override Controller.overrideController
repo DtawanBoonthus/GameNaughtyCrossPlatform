@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Jennie Animator Override Controller
+  m_Controller: {fileID: 9100000, guid: 588a6b4466662f2409ad02afd2ed9419, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 8273325049105940540, guid: 6be0e08b001dfb0478d690e3a3af5b88, type: 3}
+    m_OverrideClip: {fileID: 8273325049105940540, guid: c8dbc3754968a7c4da6ae42fee048183, type: 3}
+  - m_OriginalClip: {fileID: 7055355079433224739, guid: 6be0e08b001dfb0478d690e3a3af5b88, type: 3}
+    m_OverrideClip: {fileID: -6442555396547149921, guid: c8dbc3754968a7c4da6ae42fee048183, type: 3}
+  - m_OriginalClip: {fileID: -3100369314251171874, guid: 6be0e08b001dfb0478d690e3a3af5b88, type: 3}
+    m_OverrideClip: {fileID: -3100369314251171874, guid: c8dbc3754968a7c4da6ae42fee048183, type: 3}
+  - m_OriginalClip: {fileID: 651974493569820960, guid: 6be0e08b001dfb0478d690e3a3af5b88, type: 3}
+    m_OverrideClip: {fileID: 651974493569820960, guid: c8dbc3754968a7c4da6ae42fee048183, type: 3}
+  - m_OriginalClip: {fileID: 5522812681064789136, guid: 6be0e08b001dfb0478d690e3a3af5b88, type: 3}
+    m_OverrideClip: {fileID: 2772812811124783404, guid: c8dbc3754968a7c4da6ae42fee048183, type: 3}
+  - m_OriginalClip: {fileID: 2667949614841947897, guid: 6be0e08b001dfb0478d690e3a3af5b88, type: 3}
+    m_OverrideClip: {fileID: 4485118894649010602, guid: c8dbc3754968a7c4da6ae42fee048183, type: 3}
